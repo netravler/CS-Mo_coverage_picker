@@ -1,0 +1,8 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\bin\Debug\MO_coverage_picker.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\bin\Debug\MO_coverage_picker.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\MO_coverage_picker\MO_coverage_picker\obj\x86\Debug\MO_coverage_picker.csprojResolveAssemblyReference.cache
